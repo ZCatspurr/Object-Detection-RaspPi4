@@ -1,2 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/arMTDnI8)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=16100566)
+This project involves object detection with the Raspberry Pi 4.
+A LED matrix will be used to communicateto the user when a train is approaching. To detect an approaching train, a camera will analyse images and live video and transmit it back to the Pi, which then communicates to the matrix. Further plans include a speaker system to provide an auditory experience. 
+
+MTA API will be used once a key is obtained.
