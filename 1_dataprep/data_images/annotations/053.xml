@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>053.png</filename>
+	<path>C:\Users\4alte\Desktop\yolo_detect\Notes\1_dataprep\data_images\053.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>463</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>train</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>82</ymin>
+			<xmax>336</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>
